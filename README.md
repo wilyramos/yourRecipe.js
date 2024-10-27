@@ -1,7 +1,8 @@
-# HEALTHY DIARY IN JS
+# your favorite recipe
 
 #demo: 
 
-# leagues
+# 
 
-this template use js, taiwindcss and indexeDB
+This application queries a free API to bring the recipes of dishes.
+this template use js, taiwindcss and localstorage
